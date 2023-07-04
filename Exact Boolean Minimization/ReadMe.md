@@ -1,4 +1,4 @@
-# Exact Boolean Minimazation
+# Exact Boolean Minimization
 
 ### Convert source code into .exe
 ```
