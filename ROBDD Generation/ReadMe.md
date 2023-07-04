@@ -1,10 +1,10 @@
 # ROBDD Generation 
-### install graphviz
+### Install graphviz
 ```
 sudo yum install graphviz
 ```
 
-### convert pla file to dot file
+### Convert pla file to dot file
 ```
 g++ ROBDD.cpp -o ROBDD
 ./ROBDD [plafile.pla] [obdd.dot] [robdd.dot]
@@ -12,7 +12,7 @@ g++ ROBDD.cpp -o ROBDD
 ex: \
 ./ROBDD 4var.pla 4varOBDD.dot 4varROBDD.dot
 
-### convert to png  file
+### Convert to png  file
 ```
 dot -T png [obdd.dot] > [obdd.png]
 ```
