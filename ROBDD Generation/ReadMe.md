@@ -20,4 +20,4 @@ ex: \
 dot -T png 4varOBDD.dot > 4varOBDD.png\
 dot -T png 4varROBDD.dot > 4varROBDD.png\
 dot -T png 5varOBDD.dot > 5varOBDD.png\
-dot -T png 5varROBDD.dot > 5varROBDD.png\
+dot -T png 5varROBDD.dot > 5varROBDD.png
